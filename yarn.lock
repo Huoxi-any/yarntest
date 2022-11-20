@@ -1551,13 +1551,13 @@
   dependencies:
     lodash "^4.17.4"
 
-"@hapi/accept@3.2.0":
-  version "3.2.0"
-  resolved "https://registry.npmmirror.com/@hapi/accept/-/accept-3.2.0.tgz#1d4c25b57f00b571f1e55040641c56f726232b11"
-  integrity sha512-Q3Gcg5s/GseNsx0kvd25ZSzT6wQOmgBRNbiV88Rzh+Q3aZU4u9MHsHVqSJ/8TFKZ+H/EXNCHdnPqndYPeMVC8w==
+"@hapi/accept@5.0.1":
+  version "5.0.1"
+  resolved "https://registry.npmmirror.com/@hapi/accept/-/accept-5.0.1.tgz#068553e867f0f63225a506ed74e899441af53e10"
+  integrity sha512-fMr4d7zLzsAXo28PRRQPXR1o2Wmu+6z+VY1UzDp0iFo13Twj8WePakwXBiqn3E1aAlTpSNzCXdnnQXFhst8h8Q==
   dependencies:
-    "@hapi/boom" "7.x.x"
-    "@hapi/hoek" "6.x.x"
+    "@hapi/boom" "9.x.x"
+    "@hapi/hoek" "9.x.x"
 
 "@hapi/ammo@4.0.0":
   version "4.0.0"
@@ -1566,12 +1566,12 @@
   dependencies:
     "@hapi/hoek" "8.x.x"
 
-"@hapi/boom@7.x.x":
-  version "7.4.11"
-  resolved "https://registry.npmmirror.com/@hapi/boom/-/boom-7.4.11.tgz#37af8417eb9416aef3367aa60fa04a1a9f1fc262"
-  integrity sha512-VSU/Cnj1DXouukYxxkes4nNJonCnlogHvIff1v1RVoN4xzkKhMXX+GRmb3NyH1iar10I9WFPDv2JPwfH3GaV0A==
+"@hapi/boom@9.x.x":
+  version "9.1.4"
+  resolved "https://registry.npmmirror.com/@hapi/boom/-/boom-9.1.4.tgz#1f9dad367c6a7da9f8def24b4a986fc5a7bd9db6"
+  integrity sha512-Ls1oH8jaN1vNsqcaHVYJrKmgMcKsC1wcp8bujvXrHaAqD2iDYq3HoOwsxwo09Cuda5R5nC0o0IxlrlTuvPuzSw==
   dependencies:
-    "@hapi/hoek" "8.x.x"
+    "@hapi/hoek" "9.x.x"
 
 "@hapi/hoek@6.x.x":
   version "6.2.4"
@@ -1588,7 +1588,7 @@
   resolved "https://registry.npmmirror.com/@hapi/hoek/-/hoek-9.0.0.tgz#ba83436edfac1d1ffd0e94797d43419c20ad49b8"
   integrity sha512-XxD4A5YMIH70ddjG7BJBUz7RWVQAwIP/36Eoyh0DsaWp92OAeXkrbtSEaYkynBPTsN9Uv2mZq9QWZYILl2Svrw==
 
-"@hapi/hoek@^9.0.0":
+"@hapi/hoek@9.x.x", "@hapi/hoek@^9.0.0":
   version "9.3.0"
   resolved "https://registry.npmmirror.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
   integrity sha512-/c6rf4UJlmHlC9b5BaNvzAcFv7HZ2QHaV0D4/HNlBdvFnvQq8RI4kYdhyPCl7Xj+oWvTWQ8ujhqS53LIgAe6KQ==
